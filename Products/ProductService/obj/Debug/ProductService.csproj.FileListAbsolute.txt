@@ -1,0 +1,10 @@
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductService\bin\Debug\ProductService.exe.config
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductService\bin\Debug\ProductService.exe
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductService\bin\Debug\ProductService.pdb
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductService\obj\Debug\ProductService.csprojAssemblyReference.cache
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductService\obj\Debug\ProductService.csproj.CoreCompileInputs.cache
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductService\obj\Debug\ProductService.exe
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductService\obj\Debug\ProductService.pdb
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductService\bin\Debug\ProductsInterfaces.dll
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductService\bin\Debug\ProductsInterfaces.pdb
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductService\obj\Debug\ProductService.csproj.CopyComplete

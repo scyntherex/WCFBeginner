@@ -1,0 +1,6 @@
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductsInterfaces\bin\Debug\ProductsInterfaces.dll
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductsInterfaces\bin\Debug\ProductsInterfaces.pdb
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductsInterfaces\obj\Debug\ProductsInterfaces.csprojAssemblyReference.cache
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductsInterfaces\obj\Debug\ProductsInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductsInterfaces\obj\Debug\ProductsInterfaces.dll
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductsInterfaces\obj\Debug\ProductsInterfaces.pdb

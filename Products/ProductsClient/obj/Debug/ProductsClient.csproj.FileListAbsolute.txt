@@ -1,0 +1,7 @@
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductsClient\bin\Debug\ProductsClient.exe.config
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductsClient\bin\Debug\ProductsClient.exe
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductsClient\bin\Debug\ProductsClient.pdb
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductsClient\obj\Debug\ProductsClient.csproj.CoreCompileInputs.cache
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductsClient\obj\Debug\ProductsClient.exe
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductsClient\obj\Debug\ProductsClient.pdb
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductsClient\obj\Debug\ProductsClient.csprojAssemblyReference.cache
