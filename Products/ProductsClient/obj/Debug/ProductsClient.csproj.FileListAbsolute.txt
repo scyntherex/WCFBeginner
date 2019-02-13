@@ -5,3 +5,6 @@ C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductsClient
 C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductsClient\obj\Debug\ProductsClient.exe
 C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductsClient\obj\Debug\ProductsClient.pdb
 C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductsClient\obj\Debug\ProductsClient.csprojAssemblyReference.cache
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductsClient\bin\Debug\ProductsInterfaces.dll
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductsClient\bin\Debug\ProductsInterfaces.pdb
+C:\Users\Rone Caballero\Desktop\Projects\WCF\WCFBeginner\Products\ProductsClient\obj\Debug\ProductsClient.csproj.CopyComplete

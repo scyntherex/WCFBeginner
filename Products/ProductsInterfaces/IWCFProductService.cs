@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProductsInterfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Serialization;
@@ -13,5 +14,7 @@ namespace ProductInterfaces
     {
         [OperationContract]
         List<string> ListProducts();
+        [OperationContract]
+        ProductData GetProduct(string productNumber);
     }
 }
